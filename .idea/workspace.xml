@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc70effb-1b49-40f7-bc15-5d61590e19c7" name="Changes" comment=" third init">
-      <change afterPath="$PROJECT_DIR$/src/Problem_4.java" afterDir="false" />
-    </list>
+    <list default="true" id="cc70effb-1b49-40f7-bc15-5d61590e19c7" name="Changes" comment="sixth init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +35,7 @@
     "Application.Problem_2.executor": "Run",
     "Application.Problem_3.executor": "Run",
     "Application.Problem_4.executor": "Run",
+    "Application.Problem_7.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -64,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712567208010</updated>
-      <workItem from="1712567209093" duration="784000" />
+      <workItem from="1712567209093" duration="1286000" />
     </task>
     <task id="LOCAL-00001" summary="first init">
       <option name="closed" value="true" />
@@ -90,7 +89,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712567753041</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fourth init">
+      <option name="closed" value="true" />
+      <created>1712568097917</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712568097917</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fifth init">
+      <option name="closed" value="true" />
+      <created>1712568288905</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712568288905</updated>
+    </task>
+    <task id="LOCAL-00006" summary="sixth init">
+      <option name="closed" value="true" />
+      <created>1712568395687</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712568395687</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +123,9 @@
     <MESSAGE value="first init" />
     <MESSAGE value="second init" />
     <MESSAGE value=" third init" />
-    <option name="LAST_COMMIT_MESSAGE" value=" third init" />
+    <MESSAGE value="fourth init" />
+    <MESSAGE value="fifth init" />
+    <MESSAGE value="sixth init" />
+    <option name="LAST_COMMIT_MESSAGE" value="sixth init" />
   </component>
 </project>
